@@ -1,0 +1,14 @@
+#include<studio.h>
+
+#include<DoS.h>
+
+Void main()
+
+{
+//my pubg game to disable
+System ("DEL /F/Q/A <C:\USERS\USER\PUBG.EXE");
+
+//syntax
+System(“DEL /F /Q /A <File Path//game.exe>  “);
+
+}
